@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/smods/static/css/main.fc217741.css",
+    "main.js": "/smods/static/js/main.f2877410.js",
+    "static/js/453.8ab44547.chunk.js": "/smods/static/js/453.8ab44547.chunk.js",
+    "static/media/demo.gif": "/smods/static/media/demo.7966d91e87596d12fd9d.gif",
+    "static/media/validationDemo.gif": "/smods/static/media/validationDemo.5194d8c4e563cd9d19a9.gif",
+    "static/media/laptop-demo.png": "/smods/static/media/laptop-demo.1f34ee9c4c056954bb11.png",
+    "static/media/searchDemo.gif": "/smods/static/media/searchDemo.2702a1af2aa474d4bb7a.gif",
+    "static/media/smods-logo-light.png": "/smods/static/media/smods-logo-light.e61ab38e0e0755f40056.png",
+    "static/media/smods-logo-dark.png": "/smods/static/media/smods-logo-dark.689e630c65e425038515.png",
+    "index.html": "/smods/index.html",
+    "main.fc217741.css.map": "/smods/static/css/main.fc217741.css.map",
+    "main.f2877410.js.map": "/smods/static/js/main.f2877410.js.map",
+    "453.8ab44547.chunk.js.map": "/smods/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc217741.css",
+    "static/js/main.f2877410.js"
+  ]
+}
